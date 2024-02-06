@@ -1,0 +1,916 @@
+[
+  {
+    "name": "Adiba",
+    "meaning": "yozuvchi qiz, ziyoli, ilmli, ijodkor, ilhom izlagan, nazokatli,tarbiyali, odobli, namunali, iffatli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Aziza",
+    "meaning": "qadrli, qimmatli, tabarruk, hurmatli yoki qudratli, izzatli, noyob",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Akifa",
+    "meaning": "g‘ayratli, shijoatli, xudojo‘y qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Alima",
+    "meaning": "bilimli, aql-zakovatli, dilkash qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Anora",
+    "meaning": "qizil holli, norli qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Asal",
+    "meaning": "asaldek shirin, totli, ya’ni yoqimtoy, suyukli, sevimli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Asila",
+    "meaning": "aslzoda, nasli toza qiz, sof, pokiza, qalbi g‘uborsiz, benuqson qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Asliya",
+    "meaning": "sof, pokiza, toza; aslzoda",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Asolat",
+    "meaning": "asllik, aslzoda, zoti pok yoki puxta, mustahkam",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Afzuna",
+    "meaning": "ziyoda, ortiq, yuksak tutuvchi. Yuqoriga intilgan, qadrli, qimmatli. E’tiborga loyiq, yuksak martabali",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Afruza",
+    "meaning": "oydek ravshan, quyosh nuridek porloq, shul’ador, yondiruvchi, otashin. Ro‘za oyida tug‘ilgan chiroyli, oydek qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Barno",
+    "meaning": "yosh, navqiron, chiroyli, hushbichim, hushqad",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Barchinoy, Oybarchin",
+    "meaning": "oy yuzli, oy chehrali qiz, iboli, hayoli, oqko‘ngil, qalbi pok, toza",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Binafsha",
+    "meaning": "binafsha guldek ko‘rkam, nafis, suluv qiz",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Begoyim",
+    "meaning": "beklar, aslzodalar avlodiga mansub, oliy nasab, viqorli, martabasi baland qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Davriya",
+    "meaning": "davr farzandi, zamon qizi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Dilafruz",
+    "meaning": "dilni quvontiruvchi, shodlantiruvchi, dil guli, dilni ochuvchi, yayratuvchi, ko‘ngilga huzur, shodlik baxsh etuvchi, kayfiyatni ko‘taruvchi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilbar",
+    "meaning": "yoqimli, yoqimtoy, ko‘ngilni oluvchi, maftun qiluvchi, go‘zal, suyukli, zebo",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dildora",
+    "meaning": "dildan sevilgan, chin muhabbat sohibasi, dilni rom qiluvchi yoki rahmdil, jasur, dovyurak",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilnoza",
+    "meaning": "ishvali, nozli qalb egasi, nozik, nafis dil sohibi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilorom",
+    "meaning": "ko‘ngilga taskin, orom beruvchi, huzur-halovat, osoyishtalik baxsh etuvchi; suyukli, sevimli qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilrabo",
+    "meaning": "dilni tortuvchi, qalbni maftun etuvchi, jozibali, latofatli, nazokatli, ko‘ngilni jalb qiluvchi, suyukli, yoqimtoy, oqko‘ngil, go‘zal qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilso‘z",
+    "meaning": "jonkuyar, mehribon, mushfiq, dildagi gaplarning egasi, chin so‘z",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Dilfuza",
+    "meaning": "dilfiruza ismning o‘zgartirilgan shakli. Dilni yorituvchi, ko‘ngilga, qalbga shodlik, quvonch olib keluvchi, shavq bag‘ishlovchi, tengsiz, ko‘rkam",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Diyora",
+    "meaning": "o‘lka, zamin, ona yurtning vafodor, fidokor, elim, yurtim deb yashovchi farzand",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Durdona",
+    "meaning": "inju donasi, a’lo marvarid; eng aziz, qadrli, chiroyli, nafis, suluv qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "E’zoza",
+    "meaning": "hurmatga, izzat-ikromga, e’zozlanishga sazovor qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Fazilat",
+    "meaning": "yaxshi hislatlar egasi, go‘zal xulqi bilan boshqalardan afzal, ustun turuvchi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Farangiz",
+    "meaning": "nur sochuvchi, ziyokor yoki go‘zal, suyukli, shu’la sochuvchi go‘zal qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Farida",
+    "meaning": "bebaho, nodir, noyob, marvarid yoki pardali bo‘lib tug‘ilgan qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Feruza",
+    "meaning": "baxtli, iqboli baland, tolei porloq, saodatli qiz yoki firuza (ko‘k tusli tovlanuvchi qimmatbaho tosh)dek aziz, qimmatli, qadrli, bebaho, chiroyli, zebo, nafis; nurli nur sochuvchi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Fotima",
+    "meaning": "fatiat - ko‘krakdan ajratilgan. Bu nom Muhammmad (s.a.v.)ning kenja qizlarining ismi bo‘lgan. Egizak qizlar tug‘ilganda kattasini Fotima deb nomlash millatimizda urfga aylangan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Gavxar",
+    "meaning": "gur, marvariddek bebaho qiz yoki asl, aslzoda",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulasal",
+    "meaning": "guldek go‘zal, chiroyli, nafis, latofatli va boldek shirin, yoqimtoy suyukli, aziz qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulbaxor",
+    "meaning": "bahor guli, ko‘klam chechagidek dilbar, suluv, sohibjamol, go‘zal qiz, bahorda uyg‘onish davrida tug‘ilgan qiz. Hayoti guldek chiroyli bo‘lsin ma’nosida",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Guljamol",
+    "meaning": "guldek go‘zal husn sohibi, husni jamoli guldek zebo qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Guljaxon",
+    "meaning": "baxtli kunlar, ya’ni baxtli, saodatli kunda tug‘ilgan. Hayotda baxtiyor, iqboli, porloq, tolei baland bo‘lsin",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulzira",
+    "meaning": "zira gulidek yoqimtoy qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulzoda",
+    "meaning": "go‘zallar nasliga mansub, hurliqolar avlodidan bo‘lgan qiz, guldek nafis, latofatli, zebo va suluv",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gullola",
+    "meaning": "loladek, lolaguldek chiroyli qiz, lolalar ochilganda tug‘ilgan qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulnoza",
+    "meaning": "gul kabi nafis, nozik va nozli, jilvali gul, yohud go‘zal va nozli qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulnora",
+    "meaning": "anor gulidek zebo, gul chehrali qiz yoki anor gullaganda tug‘ilgan qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Guloy",
+    "meaning": "guldek va oydek zebo qiz yoki guldek yashnagan va oydek nurli, ko‘rkam qiz",
+    "source": "Fors-tojikcha,  o‘zbekcha.\r"
+  },
+  {
+    "name": "Gulra’no",
+    "meaning": "qizil guldek ko‘rkam, go‘zal, nafis, sohibjamol, o‘zidan chiroy taratuvchi qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulsora",
+    "meaning": "saralangan, tanlangan gul, gullarning sarasi, a’losi, eng yaxshi qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Gulchexra",
+    "meaning": "gul yuzli, hushro‘y, sohibjmol, chiroyli, maftunkor, istarali, go‘zal chehrali suluv qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Go‘zal",
+    "meaning": "chiroyli, zebo, suluv, latofatli, jozibali, nazokatli",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Halima",
+    "meaning": "muloyim, mehribon, rahmdil, mehrli, shafqatli, xushmuomala, beozor, suyukli qiz. Payg‘amabarimiz Muhammad (s.a.v.)ga oq sut bergan ayolning ismi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Hanifa",
+    "meaning": "rostgo‘y, pokiza, sodiq yoki mehribon, g‘amxo‘r",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Hilola",
+    "meaning": "yangi oydek ko‘rkam qiz yoki yangi oy chiqqanida tug‘ilgan go‘zal husnli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Hosiyat",
+    "meaning": "yaxshi sifatlar, fazilatlar, go‘zal hislatlar egasi yoki omadli, ishi yurishgan yoki xosiyatli kunda tug‘ilgan qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Hurshida",
+    "meaning": "quyoshdek husnu jamol sohibasi bo‘lgan go‘zal, suluv latofatli, zebo; oftobmonand qiz, quyosh farzandi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Husnida",
+    "meaning": "husniddin ismiga qiyosan yasalgan ism. Go‘zal va chiroyli xusn egasi bo‘lsin degan niyatda",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Husniya",
+    "meaning": "go‘zal chehrali, chiroyli, latofatli, maftunkor yuzli, zebo qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Husnora",
+    "meaning": "bezangan, o‘ziga qaragan, zebo qiz; husnda tengsiz, o‘ziga munosib bo‘lgan, mos tushgan go‘zal husn, chiroy va latofat sohibasi",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Iroda",
+    "meaning": "istab orzu qilib erishilgan qiz yoki Allohning irodasi, muruvvati bo‘lgan qiz, yohud irodali, chidamli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Iffar",
+    "meaning": "pokiza, ma’suma, bokira qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ifora",
+    "meaning": "hushbo‘y, yoqimli iforli, nafis hid taratuvchi",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Jamila",
+    "meaning": "go‘zal, sohibjamol, maftunkor, nafis, suluv qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Jasmina",
+    "meaning": "jannatning guli, jannatda o‘suvchi gulning nomi, hushbo‘y, ifori kuchli chiroyli gul",
+    "source": "Fors-tojikcha. (arabcha-Yasmina)\r"
+  },
+  {
+    "name": "Jumagul",
+    "meaning": "juma kuni tug‘ilgan guldek suluv, zebo, go‘zal qiz. Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Kamola",
+    "meaning": "kamolga erishgan yetuk, zebo, ko‘rkam, mukmal inson",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Karima",
+    "meaning": "sahovatli, sahiy, qo‘li ochiq, mehribon, rahmli, qalbi pok qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Komila",
+    "meaning": "barkamol, yetuk, bekamu-ko‘st, namunali, ibratli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Kumush",
+    "meaning": "kumushdek yorqin, qadrli, qiz yoki oq yuzli oqbadan go‘zal qiz",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Laylo",
+    "meaning": "tunda tug‘ilgan qiz yoki nilufar (safsan)dek go‘zal qiz. Qadimiy yahudiy tilida: Liliya – Safsangul",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Latofat",
+    "meaning": "nazokatli, mehribon, latofatli, pokiza, shavqatli, zebo qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Lola",
+    "meaning": "loladek yashnagan, nafosatli, chiroyli. ko‘rkam, go‘zal qiz yoki lolalar ochilgan payitda tug‘ilgan qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Lobar",
+    "meaning": "go‘zal, ko‘rkam, kelishgan, yoqimtoy, nafis, hushfe’l, dilkash qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Lutfiya",
+    "meaning": "mehribon, dilkash, rahmdil, ko‘ngli pok qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mavluda",
+    "meaning": "hosiyatli, yaxshi, muqaddas kunda tug‘ilgan qiz, umrida yaxshi kunlar ko‘p bo‘lsin, hayoti chiroyli o‘tsin",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Madina",
+    "meaning": "Saudiya Arabistonidagi muqaddas shahar, ziyoratgox bo‘lgan Madinai Munavvara ismidan olingan ism",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Malika",
+    "meaning": "podshohning avlodiga mansub ulug‘ martabali ayol. Shohbonu, go‘zallar go‘zali, mahvashlar mahvashi, zakovatli sohiba. Malikalardek obro‘-e’tiborli bo‘lsin ma’nosida ham qo‘yiladi. Ushbu ism sohibalaridan biri Amir Temurning xotini, katta malika"
+  },
+  {
+    "name": "Maloxat",
+    "meaning": "go‘zal, suluv, nafosatli, dilkash, malohatli, ko‘rkam qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Marjona",
+    "meaning": "dur, inju, marvaridlar tizimi, qizil rangli yirik munchoq, marjondek qimmatbaho va suluv qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Mastura",
+    "meaning": "berkitilgan, yopiq yuzli, halol, pok, toza, pardali, iffatli, hayoli, iboli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mafzuna",
+    "meaning": "latofatli, chiroyli, go‘zallar ichida yagona, suluv va nafosatli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mafruza",
+    "meaning": "tanlab, saylab olingan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Maxsuma",
+    "meaning": "sof, pokiza, gunohsiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mashxura",
+    "meaning": "taniqli, obro‘-e’tiborli, odamlar nazarida bo‘lgan, hurmatli, e’zozli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ma’mura",
+    "meaning": "baxtli, nasibali, farovon yashovchi; boshqaruvchi, yetakchi, yo‘l ko‘rsatuvchi, boshliq",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Maqsuda",
+    "meaning": "orzu qilingan, orziqib kutilgan qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Maxbuba",
+    "meaning": "suyukli, qadrli, aziz do‘st, dilbar, dilkash, ko‘ngli toza, sevilgan, dilbar qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Maxfuza",
+    "meaning": "himoyalangan, muhofazaga olingan yoki qo‘rg‘on, qasr, qal’adek mustahkam baquvvat, yengilmas",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Moxigul",
+    "meaning": "oydek suluv, chiroyli va gul kabi ko‘rkam qiz, oyning chekkasidagi gul",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Moxidil",
+    "meaning": "oydek go‘zal, maftunkor, suluv, qalbi pok, dili toza, go‘zal, fazilatli qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Moxina",
+    "meaning": "oyga o‘xshash, oymonand, nafis, nozik yoki yangi oy chiqqan paytda tug‘ilgan yoki yangi oydek suluv qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Moxinur",
+    "meaning": "oyning nuri, oydin, oydindek pokiza, suluv, chiroyli, oydek go‘zal qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Moxira",
+    "meaning": "mahoratli, ustamon, puxta, pishiq, qo‘li gul, epchil, chaqqon, ozoda va saranjom qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muazzam",
+    "meaning": "hurmatli, e’zozli, qadrli, e’tiborli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muattar",
+    "meaning": "xushbo‘y, yoqimli hid tarqatuvchi, atir sochuvchi, muattar hidli",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mubina",
+    "meaning": "jozibali, istarasi issiq, lobar, ochiq chehrali, rostgo‘y, latofatli, zebo qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muzayyana",
+    "meaning": "bezangan, ziynatlangan, orasta",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muqaddam",
+    "meaning": "oldinda boruvchi, peshvo yoki oiladagi ilk, birinchi bola",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muqaddas",
+    "meaning": "tabarruk, aziz, qadrli yoki pokiza, sof, benuqson, ozoda, qutlug‘",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Mumtoz",
+    "meaning": "tanlangan, saralangan, zo‘r",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muniba",
+    "meaning": "to‘g‘ri yo‘l (din yo‘li)ga kiruvchi; xudojo‘y, oqila inson degan manoni anglatadi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Munira",
+    "meaning": "nurli, ravshan, go‘zal, zebo, baxtli, saodatmand, nur sochuvchi, yuzidan nur taraluvchi, zebo qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Munisa",
+    "meaning": "do‘st, o‘rtoq, sirdosh; sodiq do‘st",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muslima",
+    "meaning": "musulmon, xudojo‘y ayol, soliha, Allohga itoat etuvchi mo‘mina qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muxlisa",
+    "meaning": "oqko‘ngil qiz, xudojo‘y, muslima, mo‘mina qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muxsina",
+    "meaning": "mehribon, yaxshiliklar qiluvchi, muruvvatli, hayirli amallarga intiluvchi, rahmdil qiz",
+    "source": "Arabcha\r"
+  },
+  {
+    "name": "Mushtariy",
+    "meaning": "Yupiter sayyorasining nomi yoki biror nima sotib oluvchi, xaridor",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Muyassar",
+    "meaning": "orzu qilib yurib erishilgan; Alloh erishtirgan, sovg‘a qilgan, muyassar qilgan qiz. Hayotidagi barcha orzulari, niyatlari muyassar bo‘lib ijobat bo‘lsin ma’nosida ham qo‘yiladi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Nargiza",
+    "meaning": "nargis (bo‘tagul) dek nozik, nafis, zebo, go‘zal qiz, ifori taraluvchan",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Nasiba",
+    "meaning": "rizqu-ro‘zli, nasibali qiz. Umri to‘kin-sochinlikda, bekamu-ko‘st o‘tsin, nasibali bo‘lsin ma’nosida",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Nafisa",
+    "meaning": "nafis, nozik, go‘zal, nafosatli, latofatli, foyda keltiruvchi, yaxshiliklar qiluvchi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Nigora",
+    "meaning": "go‘zal chehrali, sohibjamol, o‘ziga rom etuvchi, maftunkor, latofatli, jozibali, go‘zal, zebo, tengsiz husn sohibasi, yoqimtoy",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Nilufar",
+    "meaning": "nilufar (savsan) o‘simligidek chiroyli, zebo qiz, o‘ziga maftun etuvchi",
+    "source": "O‘zbekcha, hindcha.\r"
+  },
+  {
+    "name": "Nodira",
+    "meaning": "tengi yo‘q, yagona, tengsiz, bebaho, benazir, nodir, betakror, beqiyos go‘zallik sohibasi go‘zal, latofatli, zebo qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Nozima",
+    "meaning": "tartibga, intizomga rioya qiladigan, ya’ni tartibli, sarishta",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Noila",
+    "meaning": "orzu qilingan, intiqib kutilgan qiz. Alloh bergan sovg‘a, tuhfa",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Nuriya",
+    "meaning": "baxtli, shodon qiz, hayoti nurli ravshan; o‘zidan nur sochuvchi, oftobdek quvonchli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ozoda",
+    "meaning": "erkin, ixtiyori o‘zida; baxtli, baxtiyor yoki toza, pokiza, saranjom, tartibli, begunoh, beg‘ubor. Ba’zi manbalarada saxiy, oq ko‘ngil, qalbi pok deb ham izohlanadi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Oygul",
+    "meaning": "oydek suluv, go‘zallikda yorqin, guldek zebo, nafis, chiroyli, maftunkor, istarali qiz",
+    "source": "O‘zbekcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Oynur",
+    "meaning": "oy yog‘dusidek go‘zal, pokiza; nurafshon qiz",
+    "source": "Arabcha,  o‘zbekcha.\r"
+  },
+  {
+    "name": "Oysha",
+    "meaning": "yashovchi, barhayot, umri uzoq, hayoti nurli qiz. Bu ism Muhammad (s.a.v.)ning ayollari Oysha (r.a.) ismlari bo‘lgan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Oliya",
+    "meaning": "yuksak, oliy, ulug‘; e’zozli, izzatli, ulug‘vor, martabali, e’tiborli",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Omina",
+    "meaning": "omonlikda saqlanuvchi, ya’ni muhofaza qilingan ishonchli ravishda qo‘riqlangan, daxlsiz yoki rostgo‘y, vafodor. Omina - Muhammad (s.a.v.) onasining ismi bo‘lgan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Orzu",
+    "meaning": "ota-onasini orzusiga erishtirgan, maqsadiga yetkazg‘an yoki orziqib kutilgan qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Osiyo",
+    "meaning": "tegirmon yoki Osiyo qizi, Osiyo farzandi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Rayona, Rayyona",
+    "meaning": "Rayyon-jannat eshiklaridan biri. Bu eshikdan faqat ro‘za tutganlar kiritiladi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Rayxona",
+    "meaning": "nozbo‘y, iforli, rayhonday yoqimtoy, yoqimli, nafis, jozibali qiz. Muhammad (s.a.v.)ning ayollaridan birining nomi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ramziya",
+    "meaning": "timsol, o‘rnak, namuna",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Rasifa, Rasixa",
+    "meaning": "chidamli, mahkam, irodali qiz yoki pokiza, ozoda qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ra’no",
+    "meaning": "qizil guldek go‘zal, chiroyli, latofatli, ra’no guldek suluv, purlatofat qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Robiya",
+    "meaning": "oiladagi to‘rtinchi bola yoki hijriy oy hisobining to‘rtinchi kunida tug‘ilgan bola",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Roziya",
+    "meaning": "mamnun yoki maqbul tushuvchi, ma’qul keluvchi; yoqimli, suyukli, e’zozli, qadrli; rozilik, shukronalik, itoatgo‘ylik, mamnunlik bahsh etgan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Saboxon",
+    "meaning": "tong eli, shabadasi; yoqimli, muloyim yoki sahar paytida tug‘ilgan bola",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Saboxat",
+    "meaning": "ko‘rkamlik, go‘zallik, malohat, oq yuzli go‘zal, sabo tongi shabadasi, nafislik chiroyi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sadoqat",
+    "meaning": "vafodor, sodiq, chin samimiy do‘st, ishonish, suyanish mumkin bo‘lgan yaqin inson",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Saida",
+    "meaning": "baxtli, omadli, tolei baland, iqboli porloq, saodatmand qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sayyora",
+    "meaning": "tez harakat qiluvchi yulduz; sayyora planetasi yoki tolei baland, iqboli porloq, baxtli-saodatli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Salima",
+    "meaning": "sog‘lom, umri uzoq qiz yoki samimiy, dilkash, ko‘ngli ochiq, vafodor qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Samina",
+    "meaning": "qadrli, izzat-obro‘li qiz yoki Samin (gul)dek chiroyli, zarif, latofatli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Samira",
+    "meaning": "suhbatdosh, hamsuhbat, shirinso‘z, dilkash va ko‘ngli ochiq qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Samiya",
+    "meaning": "ziyrak, sezgir, dono qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sanobar",
+    "meaning": "hushqomat, chiroy, daraxtning nomi, sanavbardek go‘zal, kelishgan, hushbichim, suluv qomatli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Saodat",
+    "meaning": "baxtli, saodatli, baxtiyor, iqboli porloq, tolei balnd qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sarvinoz",
+    "meaning": "tik qomatli, bo‘y-basti kelishgan, sarv daraxtidek kelishgan va nozik qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Safiya",
+    "meaning": "aql, donishmandlik yoki arabcha Sofiya - sof, pokiza, pokdomon, ma’suma, iffatli. Payg‘ambarimiz Muhammad (s.a.v.)ning o‘n uchinchi ayollarining ismi bo‘lgan",
+    "source": "Arabcha, yahudiycha.\r"
+  },
+  {
+    "name": "Safura",
+    "meaning": "yulduz, yorug‘ yulduz; yorqin, porloq; shukuhli, hashamatli, mag‘rur yoki sochlari sariq qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Saxida",
+    "meaning": "to‘g‘ri, barvasta qadli, go‘zal qomatli",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sevara",
+    "meaning": "suyukli, yoqimtoy, qadrli aziza qiz",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Sitora",
+    "meaning": "yulduz, baxtli, omadli, chiroyli, tolei baland qiz, yulduz kabi porloq",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Sojida",
+    "meaning": "sajda qiluvchi, taqvodor, Allohga sig‘inuvchi, muslima mo‘mina qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Solixa",
+    "meaning": "salohiyatli, pokiza, ozoda yoki diyonatli, taqvodor, xudojo‘y, muslima qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Soxiba",
+    "meaning": "uyning egasi, bekasi, malikasi yoki do‘st, hayotdagi sodiq yo‘ldosh, suyukli rafiqa, sevilgan yor",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Taxmina",
+    "meaning": "kuchli, qudratli; jasur. «Shohnoma» asari qahramoni Suhrobning onasini ismi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Umida",
+    "meaning": "orzu qilingan, umid bilan kutilgan qiz yoki yashab ketishiga umid qilingan qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Umriya",
+    "meaning": "uzoq umr yashab hayoti barakali, chiroyli o‘tsin hamda qalbi toza pokiza qiz ma’nosida qo‘yiladi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Vazira",
+    "meaning": "ulg‘ayib vazira, martabali, obro‘li bo‘lsin ma’nosida niyat qilib qo‘yiladi. Erining soliha yordamchisi bo‘lsin ma’nosida ham",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Valiya",
+    "meaning": "taqvodor, iymonu-e’tiqodli, xudojo‘y ayol",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Vasliya",
+    "meaning": "visolga, murod-maqsadga, orzu-umid, go‘zal havasga intiluvchi, erishuvchi qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Visola",
+    "meaning": "tilab, so‘rab yurib erishilgan, kutib yetishilgan qiz yoki husnijamol, go‘zal, latofatli, suluv, chiroyli qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Yasmina",
+    "meaning": "jannatning guli, jannatda o‘suvchi gulning nomi, hushbo‘y, ifori kuchli chiroyli gul",
+    "source": "Arabcha. (fors-tojikcha-Jasmina)\r"
+  },
+  {
+    "name": "Yorqinoy",
+    "meaning": "hayoti nurli va oydek suluv qiz yoki mehribon dilkash qiz",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Yulduz",
+    "meaning": "yulduzdek yorug‘ yuzli, nurli, chiroyli, latofatli va suluv qiz. Tolei yulduzdek yuksak va iqboli porloq, hayoti nurga to‘la bo‘lsin",
+    "source": "O‘zbekcha.\r"
+  },
+  {
+    "name": "Zaynab",
+    "meaning": "to‘lachadan kelgan, semiz, durkun; kelishgan, go‘zal. Zaynab nomi Payg‘ambarimiz Muhammad (s.a.v.) qizlarining ismi bo‘lgan",
+    "source": "Arabcha.\r"
+  },
+  { "name": "Zaynura", "meaning": "go‘zal, zebo qiz", "source": "Arabcha.\r" },
+  {
+    "name": "Zamira",
+    "meaning": "oliyjanob, vijdonli, pokdomon, iboli, ifffatli, pokiza qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zarina",
+    "meaning": "zarli, oltinli, zarlangan, zarrin, chiroyli, go‘zal, ko‘z qamashtiruvchi husn sohibasi, suluv qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Zarnigor",
+    "meaning": "tilloga bezangan, zeblangan, bebaho, qadri baland, zarrin yoki sochlari tillodek jilvali, tovlanib turuvchi, chiroyli, maftunkor qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Zarifa",
+    "meaning": "pokiza, ma’suma, iffatli, nozik ta’b, fahm-farosatli, aqlli, oriyatli, hayo-iboli, munis, xushfahm qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zaxro",
+    "meaning": "yorqin, ravshan, oq yuzli. Nurli, porloq, nur taratuvchi yoki intiluvchi, havas qiluvchi, oldinga intiluvchi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zebiniso",
+    "meaning": "ayollarning eng go‘zali, zebosi, zebu-ziynati, latofati, jozibali, maftun qiluvchi, o‘ziga rom etuvchi chiroyda teng yo‘q qiz",
+    "source": "Arabcha,  fors-tojikcha.\r"
+  },
+  {
+    "name": "Zebo",
+    "meaning": "chiroyli, go‘zal, suluv, husni jamoli nafis qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Zulfiya",
+    "meaning": "sochi o‘ralib tug‘ilgan, jingalak, jilvakor sochli qiz, suluv, latofatli, maftunkor zebo",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Ziyoda",
+    "meaning": "qizlari yetarli (ziyoda) bo‘ldi, endigisi o‘g‘il bo‘lsin yoki umri ziyoda, uzun bo‘lsin, baxtli bo‘lsin. Badanda ortiqcha belgisi, ortig‘i bo‘lsa ham bu ism qo‘yiladi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zilola",
+    "meaning": "tiniq buloq suvidek pokiza, sof, toza, beg‘ubor oqila qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zinnura",
+    "meaning": "nurli, ravshan, chiroyli, dilbar qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Ziroat",
+    "meaning": "hosil, hosila. Mo‘l-ko‘lchilik, qut-baraka olib keluvchi qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zoxida",
+    "meaning": "dindor, xudojo‘y, mo‘mina ayol",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zulayxo",
+    "meaning": "kichik, kenja qiz. Ism ma’nosi turli ko‘rinishda keladi. Ba’zilar sirg‘anchiq, silliq, muloyim deb ham talqin qilishgan. Yusuf payg‘ambarning ayollarining ismi bo‘lgan",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zulxumor",
+    "meaning": "xumorli, qo‘msalgan, orziqib, intizor bo‘lib kutilgan qiz yoki dilbar, maftunkor, jozibali, ishvali, o‘ziga rom etuvchi",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Zumrad",
+    "meaning": "yashil tusli qimmatbaho tosh, zumraddek qimmatli, bebaho, noyob, zebo, latofatli, suluv qiz yoki ko‘k ko‘zli qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shaxzoda",
+    "meaning": "shoh farzandi, shohlar nasliga mansub qiz. Yuqori martabali, mehribon, ko‘ngli toza obro‘-e’tiborli bo‘lsin",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shaxina",
+    "meaning": "shohlar avlodi vakillaridek mard, jasur, ziyrak, dovyurak, qo‘rqmas qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shaxlo",
+    "meaning": "katta qora ko‘zli qiz, qora ko‘zli go‘zal, chiroyli, suluv, maftunkor qiz",
+    "source": "Arabcha.\r"
+  },
+  {
+    "name": "Shaxnoza",
+    "meaning": "shohona, beklarcha yoki nozli karashmali, latofatli. Shohlar, aslzodalar avlodiga mansub nozik va zebo go‘zal qiz",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shaxrizoda",
+    "meaning": "shohlar, aslzodalar nasliga mansub ko‘rkam, chiroyli qomatli qiz; podshohzoda, shohzoda, viqorli",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shirin",
+    "meaning": "totli, chuchuk, lazzatli. Aziz, yoqimli, suyukli",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shodiya",
+    "meaning": "shodon, quvnoq, baxtiyor qiz. Shodlik, xursandchilik kuni tug‘ilgan qiz. Odamlarga shodlik olib keluvchi",
+    "source": "Fors-tojikcha.\r"
+  },
+  {
+    "name": "Shoira",
+    "meaning": "so‘zga chechan, shirinsuxan, notiqa qiz bo‘lsin. Ulg‘ayib shoira bo‘lib she’rlar ijod qilsin ma’nosida. Forscha Shaere - «shoir ayol» dan kelib chiqqan",
+    "source": "Arabcha."
+  }
+]
